@@ -1,16 +1,17 @@
-## Hi there 👋
+<p align="center">
+  <img src="assets/banner.png" alt="brenucode" width="100%" />
+</p>
 
-<!--
-**brenucode/brenucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+Automatizo a parte chata da contabilidade.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+XML virando planilha, extrato conciliando sozinho, rotina fiscal que ninguém mais monta na mão. TypeScript e Python no back, Next.js e Supabase quando é web.
+
+No tempo livre tô fazendo o **Velo**, um player de MIDI — porque nem todo projeto precisa de justificativa.
+
+<br/>
+
+<p align="center">
+  <code>TypeScript</code> &nbsp; <code>Python</code> &nbsp; <code>Next.js</code> &nbsp; <code>Supabase</code> &nbsp; <code>PostgreSQL</code>
+</p>
