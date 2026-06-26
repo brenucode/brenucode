@@ -27,7 +27,13 @@ A clean MIDI player, an audio→MIDI transcriber, and a song library — designe
 ## 🛠️ Tech I reach for
 
 <p align="center">
-  <code>TypeScript</code> &nbsp;·&nbsp; <code>Python</code> &nbsp;·&nbsp; <code>C++</code> &nbsp;·&nbsp; <code>C#</code> &nbsp;·&nbsp; <code>Next.js</code> &nbsp;·&nbsp; <code>React</code> &nbsp;·&nbsp; <code>Tailwind</code> &nbsp;·&nbsp; <code>Supabase</code> &nbsp;·&nbsp; <code>PostgreSQL</code> &nbsp;·&nbsp; <code>Prisma</code> &nbsp;·&nbsp; <code>PyTorch</code>
+  <sub>LANGUAGES</sub><br/>
+  <code>TypeScript</code> &nbsp;·&nbsp; <code>JavaScript</code> &nbsp;·&nbsp; <code>Python</code> &nbsp;·&nbsp; <code>C++</code> &nbsp;·&nbsp; <code>C#</code> &nbsp;·&nbsp; <code>C</code> &nbsp;·&nbsp; <code>Assembly</code> &nbsp;·&nbsp; <code>Lua</code>
+</p>
+
+<p align="center">
+  <sub>WEB &amp; DATA</sub><br/>
+  <code>Next.js</code> &nbsp;·&nbsp; <code>React</code> &nbsp;·&nbsp; <code>Tailwind</code> &nbsp;·&nbsp; <code>Supabase</code> &nbsp;·&nbsp; <code>PostgreSQL</code> &nbsp;·&nbsp; <code>Prisma</code> &nbsp;·&nbsp; <code>PyTorch</code>
 </p>
 
 <br/>
